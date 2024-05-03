@@ -1,0 +1,14 @@
+codigo  concepto  mutual                        archivo             tipo
+------------------------------------------------------------------------
+2	1505	Seros                         Seros300.txt	Prestamo
+4	1572	Luz y Fuerza                  Luzp.txt	Prestamo
+6	1579	Soeme                         Soemep.txt	Prestamo
+7	1583	Sat                           Satp.txt	Prestamo
+9	1562	SOYEAP                        Soyeapp.txt	Prestamo
+24	1590	Mutual Uno                    Unop.txt	Prestamo
+26	1555	Proveeduría Policial(Felix)   Cirprovp.txt	Prestamo
+27	1660	Patagonia Sur                 Patsurp.txt	Prestamo
+29	1663	AMEPA                         AMEPAP.TXT	Prestamo
+30	1664	AMASOL                        AMASOLP.TXT	Prestamo
+31	1665	La Fraternidad                FRATERA.TXT	Prestamo
+38	1675	Creditan                      CTANP.TXT	Prestamo
